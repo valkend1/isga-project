@@ -31,17 +31,19 @@ header h2{
     padding-top: 4px;
     font-family: Electroharmonix;
     font-size: 30px;
-
 }
 
 .home-icon{
 float: left;
 margin-top: 4px;
+margin-left: 4px;
 }
 
-.menu{
-float: right; 
-margin-top: 10px;
+.mini-logo{
+    float: right;
+    margin-top: 2px;
+    margin-right: 4px;
+    width: 19px;
 }
 /* Main */
 .logo{
